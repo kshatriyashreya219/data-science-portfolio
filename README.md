@@ -10,10 +10,19 @@ A FastAPI-based Machine Learning API that predicts traffic congestion levels bas
 
 ## 🛠️ Tech Stack
 - **Backend:** Python, FastAPI
+- **Frontend:** Streamlit
 - **ML:** Pandas, Scikit-learn
 - **Server:** Uvicorn
 
-## 📦 How to Run Locally
+## 📸 Demo
+
+### 1. FastAPI Response
+![FastAPI Response](./api-response.png)
+
+### 2. Streamlit Web App UI  
+![Streamlit UI](./ui-result.png)
+
+## 📍 How to Run Locally
 
 1. **Clone the repo**
 ```bash
