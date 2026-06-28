@@ -34,7 +34,7 @@ def predict_traffic(data: TrafficInput):
         congestion = "Medium"
     else:
         congestion = "Low"
-        
+    
     return {
         "predicted_traffic": int(prediction),
         "congestion_level": congestion
