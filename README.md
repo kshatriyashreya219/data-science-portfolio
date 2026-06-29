@@ -30,10 +30,9 @@ git clone https://github.com/kshatriyashreya219/AI-Vehicle-Traffic-Prediction-Fa
 cd AI-Vehicle-Traffic-Prediction-FastAPI
 pip install -r requirements.txt
 uvicorn main:app --reload
-
+```
 2. **Test API**
    Open: `http://127.0.0.1:8000/docs`
-
 ---
 **Made by Shreya** | MCA Student
 ```
